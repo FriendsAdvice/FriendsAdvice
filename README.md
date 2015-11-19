@@ -1,0 +1,2 @@
+# FriendsAdvice
+project for c++
